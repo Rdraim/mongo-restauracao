@@ -9,7 +9,7 @@
 ![mongo-restauracao](assets/support/project-es-ar.svg)
 
 <!-- public-badges:start -->
-[![license](assets/support/badge-license.svg)](LICENSE) [![CI](assets/support/badge-ci.svg)](https://github.com/Rdraim/mongo-restauracao/actions) [![release](assets/support/badge-release.svg)](https://github.com/Rdraim/mongo-restauracao/releases)
+[![license](assets/support/badge-license.svg)](LICENSE) [![CI](assets/support/badge-ci.svg)](https://github.com/Rdraim/mongo-restauracao/actions) [![release](assets/support/badge-release.svg)](https://github.com/Rdraim/mongo-restauracao/releases) [![Git](assets/support/badge-git.svg)](https://github.com/Rdraim/mongo-restauracao/commits/main)
 <!-- public-badges:end -->
 
 <p>
